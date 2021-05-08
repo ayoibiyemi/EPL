@@ -1,0 +1,62 @@
+body{
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+  .year{
+    color: blue;
+    font-weight: lighter;
+    font-size: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+  }
+
+  .table-below{
+    width: 100%;
+  }
+
+  .table-below th{
+    align-content: center;
+    text-align: left;
+    padding: 5px;
+  }
+ 
+  .epl-head {
+    background-color: rgb(63,19,81);
+    height: 90px;
+    
+  }
+ 
+  span{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    vertical-align: super;
+    text-align: right;
+  
+  }
+  .season{
+    font-size: 20px;
+    
+  }
+
+  .top-head{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(63,19,81);
+    
+    
+  }
+
+  .top-head div{
+    color: white;
+    margin: 5px;
+  }
+  
+ 
+ 
